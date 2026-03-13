@@ -52,7 +52,7 @@ const ContactSection = () => {
             {[
               { icon: MapPin, label: "Dirección", value: "Av. Industrial 1250, Col. Centro, Ciudad de México" },
               { icon: Phone, label: "Teléfono", value: "+52 (55) 1234-5678" },
-              { icon: Mail, label: "Email", value: "ventas@sprecielectric.com" },
+              { icon: Mail, label: "Email", value: "ventas@ruzzoelectric.com" },
               { icon: Clock, label: "Horario", value: "Lun-Vie: 8:00 - 18:00 | Sáb: 9:00 - 14:00" },
             ].map((item) => (
               <div key={item.label} className="flex items-start gap-4">

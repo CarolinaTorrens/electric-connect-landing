@@ -20,7 +20,7 @@ const Navbar = () => {
         <a href="#inicio" className="flex items-center gap-2">
           <Zap className="h-7 w-7 text-primary" />
           <span className="font-display text-2xl font-bold tracking-tight text-foreground">
-            SPRECI <span className="text-primary">ELECTRIC</span>
+            RUZZO <span className="text-primary">ELECTRIC</span>
           </span>
         </a>
 
