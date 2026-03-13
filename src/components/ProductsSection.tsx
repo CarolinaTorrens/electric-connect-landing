@@ -1,11 +1,12 @@
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import cablesImg from "@/assets/cables-conductores.jpg";
 
 const categories = [
   {
     title: "Cables y Conductores",
     count: "500+ productos",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&h=300&fit=crop",
+    image: cablesImg,
   },
   {
     title: "Tableros y Protecciones",
