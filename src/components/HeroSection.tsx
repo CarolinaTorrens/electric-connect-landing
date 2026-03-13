@@ -1,6 +1,6 @@
 import { ArrowRight, Shield, Truck, Headphones } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroBg from "@/assets/hero-bg-new.jpg";
+import heroBg from "@/assets/hero-bg.jpg";
 
 const HeroSection = () => {
   return (
