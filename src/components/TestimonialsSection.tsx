@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: "Carlos Mendoza",
     role: "Gerente de Operaciones, Industrial MX",
-    text: "SPRECI ELECTRIC ha sido nuestro proveedor de confianza durante 8 años. La calidad de sus productos y el soporte técnico son excepcionales.",
+    text: "RUZZO ELECTRIC ha sido nuestro proveedor de confianza durante 8 años. La calidad de sus productos y el soporte técnico son excepcionales.",
   },
   {
     name: "Laura Figueroa",

@@ -8,11 +8,11 @@ const Footer = () => {
           <div className="flex items-center gap-2">
             <Zap className="h-5 w-5 text-primary" />
             <span className="font-display text-lg font-bold text-foreground">
-              SPRECI <span className="text-primary">ELECTRIC</span>
+              RUZZO <span className="text-primary">ELECTRIC</span>
             </span>
           </div>
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} SPRECI ELECTRIC. Todos los derechos reservados.
+            © {new Date().getFullYear()} RUZZO ELECTRIC. Todos los derechos reservados.
           </p>
         </div>
       </div>

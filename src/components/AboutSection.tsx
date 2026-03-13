@@ -25,7 +25,7 @@ const AboutSection = () => {
               Tu socio en <span className="text-primary">suministros eléctricos</span>
             </h2>
             <p className="mt-6 text-muted-foreground leading-relaxed">
-              En SPRECI ELECTRIC nos especializamos en ofrecer soluciones eléctricas completas para 
+              En RUZZO ELECTRIC nos especializamos en ofrecer soluciones eléctricas completas para 
               proyectos industriales, comerciales y residenciales. Contamos con un equipo técnico 
               altamente capacitado para asesorarte en cada etapa de tu proyecto.
             </p>
